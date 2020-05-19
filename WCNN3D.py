@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-“””
+"""
 3D Medicare Image Classification
 3D CNN to perform organ tissue segmentation from volumetric 3D medical images.
 
@@ -12,7 +12,7 @@ plot - plot the results calculated from the models
 
 Created on Sunday Apr 10:23:13 2019
 Author: Hongya Lu
-“””
+"""
 
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential, load_model
@@ -30,7 +30,6 @@ import cv2
 from sklearn.cross_validation import train_test_split
 from sklearn import cross_validation
 from sklearn import preprocessing
-
 
 
 # image specification

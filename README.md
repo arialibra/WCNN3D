@@ -10,6 +10,7 @@ For volumetric 3D medical image segmentation tasks, the effectiveness of convent
 
 ![Image text](https://github.com/arialibra/WCNN3D/blob/master/IMG-folder/CNN3D.PNG)
 ![Image text](https://github.com/arialibra/WCNN3D/blob/master/IMG-folder/2d.PNG)
+( (a) The proposed 3D CNN architecture for thyroid image segmentation and (b) 2D CNN architecture )
 
 The 3D CNN sufficiently considers the spatial scales of 3D images, and preserves the original imageinformation during the hierarchical representation process. A semantic OCT image segmentation model that adopts 3DCNN has shown promises for practical diagnosis and treatment planning, performing computation and communicationfunctionalities in a cyber-physical system for healthcare applications.
 
